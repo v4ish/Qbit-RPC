@@ -1,5 +1,5 @@
 # [Qbit-RPC](https://github.com/v4ish/rpc)
-Discord Rich presence for QBittorrent written in c#
+Discord Rich presence for [QBittorrent](https://www.qbittorrent.org/) written in c#
 
 ## Features
 
