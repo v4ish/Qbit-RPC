@@ -10,6 +10,8 @@ Discord Rich presence for QBittorrent
 
 ## Download
 
+[Requires .net 6.0](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
+
 ```bash
   Download from Releases
 ```
