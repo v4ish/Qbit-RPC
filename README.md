@@ -1,8 +1,7 @@
 # Qbit-RPC
 Discord Rich presence for QBittorrent 
 
-# IT WORKS ON MY COMPUTER!!!
-
+Uses 22MB of memory
 
 ## Screenshots
 
