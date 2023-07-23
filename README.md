@@ -38,3 +38,9 @@ Discord Rich presence for [QBittorrent](https://www.qbittorrent.org/) written in
 #### How much memory does it use?
 
 Uses 22MB of memory
+
+## Development
+``` bash
+Application ID: "1131638268698566738"
+Large_image: "logo-new"
+```
