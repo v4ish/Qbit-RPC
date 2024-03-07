@@ -10,11 +10,9 @@ Discord Rich presence for [QBittorrent](https://www.qbittorrent.org/) written in
 
 ## Screenshots
 
-<img src="https://cdn.discordapp.com/attachments/926176591736889385/1131822058146365470/image.png" alt="logo" width="150"/>
+<img src="https://github.com/v4ish/RPC/blob/main/Screenshots/qbit2.png" alt="logo" width="300"/>
 
-<img src="https://cdn.discordapp.com/attachments/926176591736889385/1131822137917845534/image.png" alt="logo" width="300"/>
-
-<img src="https://cdn.discordapp.com/attachments/926176591736889385/1131822392252047572/image0.jpg" alt="logo" width="200"/>
+<img src="https://github.com/v4ish/RPC/blob/main/Screenshots/qbit.png" alt="logo" width="300"/>
 
 
 ## Installation
