@@ -26,7 +26,7 @@ Discord Rich presence for [QBittorrent](https://www.qbittorrent.org/) written in
 
 #### How do i know it's not malicous?
 
-[Virus Total Scan](https://www.virustotal.com/gui/file/7c824b85b3637500fa79f3020df59d13c553b67840d5f2107fa29df34d321fbe?nocache=1)
+[Virus Total Scan](https://www.virustotal.com/gui/file/2f17e7ab9ef347d03a8159844f34794ad567afe1c06b1c8a902fd849a4789c66?nocache=1)
 
 
 #### Discord server?
@@ -36,6 +36,10 @@ Discord Rich presence for [QBittorrent](https://www.qbittorrent.org/) written in
 #### How much memory does it use?
 
 Uses 22MB of memory
+
+#### Does it reduce downloading speed?
+
+No, it doesn't
 
 ## Development
 ``` bash
