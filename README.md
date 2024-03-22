@@ -3,9 +3,9 @@ Discord Rich presence for [QBittorrent](https://www.qbittorrent.org/) written in
 
 ## Features
 
-- Definetly Lightweight 
+- Lightweight
 - Supported os: Windows
-- Runs on x86, x64 & ARM32, ARM64 architecture
+- Runs on any CPU architecture
 
 
 ## Screenshots
