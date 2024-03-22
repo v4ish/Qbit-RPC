@@ -17,7 +17,7 @@ Discord Rich presence for [QBittorrent](https://www.qbittorrent.org/) written in
 
 ## Installation
 
-[Requires .net 6.0](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
+[Requires .net 8.0](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
 
 [Download from releases](https://github.com/v4ish/Qbit-RPC/releases/latest)
 
@@ -31,7 +31,7 @@ Discord Rich presence for [QBittorrent](https://www.qbittorrent.org/) written in
 
 #### Discord server?
 
-[Discord](https://discord.gg/37uTqAhkms)
+[Discord](https://dsc.gg/v4ish)
 
 #### How much memory does it use?
 
