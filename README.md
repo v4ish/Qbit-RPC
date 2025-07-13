@@ -10,8 +10,6 @@ Discord Rich presence for [QBittorrent](https://www.qbittorrent.org/) written in
 
 ## Screenshots
 
-<img src="https://github.com/v4ish/RPC/blob/main/Screenshots/qbit2.png" alt="logo" width="300"/>
-
 <img src="https://github.com/v4ish/RPC/blob/main/Screenshots/qbit.png" alt="logo" width="300"/>
 
 
